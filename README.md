@@ -1,6 +1,6 @@
 [
   {
-    "Tv1": "https://estate-identifier-ftp-offer.trycloudflare.com",
+    "Tv1": "https://lithuania-bench-spell-bad.trycloudflare.com",
     "Tv2": "2"
   }
 ]
