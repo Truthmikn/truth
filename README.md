@@ -1,6 +1,6 @@
 [
   {
-    "Tv1": "https://lithuania-bench-spell-bad.trycloudflare.com",
+    "Tv1": "1",
     "Tv2": "2"
   }
 ]
